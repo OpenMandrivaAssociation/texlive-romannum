@@ -6,7 +6,7 @@
 # catalog-version 1.0b
 Name:		texlive-romannum
 Version:	1.0b
-Release:	10
+Release:	11
 Summary:	Generate roman numerals instead of arabic digits
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/romannum
