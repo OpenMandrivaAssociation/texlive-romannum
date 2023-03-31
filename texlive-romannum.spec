@@ -1,6 +1,6 @@
 Name:		texlive-romannum
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Generate roman numerals instead of arabic digits
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/romannum
